@@ -54,3 +54,18 @@ a **= b    → a = a ** b
 
 These make your code shorter and cleaner.
 '''
+
+# noOfStudents =10
+# noOfStudents+=1   # noOfStudents=noOfStudents+1
+# # noOfStudent  11
+# print(noOfStudents)
+
+# x = 19
+# y=5
+# x%=y  # x=x%y
+# print(x)
+
+x =2
+y=3
+x**=y # x = x**y
+print(x)

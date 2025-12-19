@@ -11,3 +11,14 @@ Ex :
 input : what is your name ? Nour
 output:Hey Nour , How are u?
 '''
+# Hi Ahmed
+# your current age is 40 , after 10 years you'll be 50
+name=input("Enter your name: ")
+age=input("Enter your age: ")
+print("Hi "+name)
+ageAfter10years=int(age)+10
+print("your current age is "+age+", after 10 years you'll be "+str(ageAfter10years))
+
+# int + str -> ivalid
+#str +str   -> valid concatenation
+#int + int  -> addition

@@ -50,3 +50,17 @@
 ✨ Summary:
 Choose clear, readable, meaningful names that follow Python rules.
 '''
+
+
+name = "aya"
+# name "aya"
+Name = "Ahmed"
+# Name "Ahmed"
+print(name)
+print(Name)
+
+x = 1.7
+
+is_graduate =True #snake_case
+isAyaGraduate = False # camelCase
+IsAyaGraduate = True  #PascalCase

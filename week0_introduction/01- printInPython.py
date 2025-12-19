@@ -1,42 +1,36 @@
 # Welcome to Python programming 1 - Lab
-# It's Aya N. Alharazin
-# print('Hello World')
 
-# ******First Program
-""  # Double qoutes
-''  # Single qoutes
-#print('Hello world')
-
-# ******second program
-
-# print('Welcome to Python programming 1 - Lab')
-# print("It's Aya N. Alharazin")
-# print("print('Hello World')")
-
-# ******third program
-#\n
-# print("Welcome to Python programming 1 - Lab\nIt's Aya N. Alharazin\nprint('Hello World')")
+# 1- print
+# 2- comments
+# this is print statement
+# print("Hello Wolrd")
+# print('Hello world')
 
 
+# hfdbgdhfdhughfudhgidfhug
+'''
+Hello world
+hi from python lab
+'''
 
-# *******fourth program
-# Concatenation
-# print("Aya" +" " + "Alharazin")
+"""
+Hello world
+hi from python lab
+"""
 
 
 
 
 
-# #IndentationError
-# print("Aya")
+# exercise 1
+# Hello, Python!
+# My name is Aya.
+# I am learning programming.
+# print("Hello , Python !")
+# print("My name is Aya .")
+# print("I am learning programming .")
 
-# تمرين لكم
-# Welcome to python course
-# String Concatenation is done using "+" sign
-# e.g print("Hello"+"Rania")
-#New Line can be created using backslash and n
-#using One print
-
-print('Welcome to python course\n'
-      'String Concatenation is done using "+" sign\ne.g print("Hello"+"Rania")\n'
-      'New Line can be created using backslash and n\nusing One print')
+# 'The only way to do great job is to love what you do' - steve jobs
+print(" \"The only way to do great job is to love what you do\"- steve jobs")
+''
+""

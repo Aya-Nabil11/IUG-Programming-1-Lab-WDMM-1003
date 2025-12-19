@@ -8,7 +8,7 @@ Python gives us simple built-in functions to change types:
 1️⃣ int()   → Converts a value to an integer
 2️⃣ float() → Converts a value to a floating-point number (decimal)
 3️⃣ str()   → Converts a value into a string (text)
-
+bool() ->Convert a value into boolean(True/False)
 ------------------------------------------------------------
 
 Examples:
@@ -61,3 +61,27 @@ Output: 24
 Explanation: Convert "12" → 12, then double it.
 
 '''
+# int ->str
+x =3
+# x    3
+strX=str(x)
+# strX   3
+print(type(strX))
+print(strX)
+
+#float -> str
+price =12.4
+floatPrice=str(price)
+print(type(floatPrice))
+
+# boolean ->str
+
+# float ->int
+price =12.9999999
+intPrice=int(price)
+print(intPrice)
+#float - >str
+strPrice=str(price)
+print(type(strPrice))
+
+# boolean ->str

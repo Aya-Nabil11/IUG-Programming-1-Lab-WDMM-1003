@@ -48,22 +48,20 @@ In Python, we have TWO division operators:
 • ** → power
 '''
 
-x = 10
-y = 5
 
-add = x + y        # 15   → Addition
-sub = x - y        # 5    → Subtraction
-mul = x * y        # 50   → Multiplication
-div = x / y        # 2.0  → Float division
-floorDiv = x // y  # 2    → Floor (integer) division
-mod = x % y        # 0    → Modulus (remainder)
-exp = x ** y       # 100000 → Exponent (10^5)
 
-print(add)
-print(sub)
-print(mul)
-print(div)
-print(floorDiv)
-print(mod)
-print(exp)
+# + , * , - , /
+num1=2
+num2=3
+print(num1 + num2)
+print(num1 * num2)
+print(num1 - num2)
+print(num1 / num2 )  # always return float
+print(num1 // num2)  # return int
+print(num1 % num2)
+print(num1 ** num2)
+#2
+#2.0
+
+
 
