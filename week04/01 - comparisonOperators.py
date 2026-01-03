@@ -16,10 +16,10 @@ Operator         Name                      Example     Result
 x = 5
 print(1 < x < 10)
 '''
-num1 =5
-num2 =10
-num3=5
-print(num1 == num2)
-print(num1 > num2)
-print(num1 >= num3)
-print(1<num1<10) # True
+# num1 =5
+# num2 =10
+# num3=5
+# print(num1 == num2)
+# print(num1 > num2)
+# print(num1 >= num3)
+# print(1<num1<10) # True
