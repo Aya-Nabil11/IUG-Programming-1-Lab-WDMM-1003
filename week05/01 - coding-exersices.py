@@ -1,15 +1,12 @@
-# 1- even or odd
-
+# 1- even or odd Function
 # def evenOrOdd(num):
 #     if num % 2 ==0 :
 #         return "even"
 #     else:
 #         return "odd"
-
 # num1 = int(input("Enter A number to check if it is even or odd: "))
 #
 # print(evenOrOdd(num1))
-
 # ------------------------------------------------------------------------
 
 # 2- Ask the user to Enter 3 numbers and print the largest number
